@@ -1,0 +1,11 @@
+D:\support\projects\AdapterLibrary\bin\Debug\net8.0\AdapterLibrary.deps.json
+D:\support\projects\AdapterLibrary\bin\Debug\net8.0\AdapterLibrary.dll
+D:\support\projects\AdapterLibrary\bin\Debug\net8.0\AdapterLibrary.pdb
+D:\support\projects\AdapterLibrary\obj\Debug\net8.0\AdapterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\support\projects\AdapterLibrary\obj\Debug\net8.0\AdapterLibrary.AssemblyInfoInputs.cache
+D:\support\projects\AdapterLibrary\obj\Debug\net8.0\AdapterLibrary.AssemblyInfo.cs
+D:\support\projects\AdapterLibrary\obj\Debug\net8.0\AdapterLibrary.csproj.CoreCompileInputs.cache
+D:\support\projects\AdapterLibrary\obj\Debug\net8.0\AdapterLibrary.dll
+D:\support\projects\AdapterLibrary\obj\Debug\net8.0\refint\AdapterLibrary.dll
+D:\support\projects\AdapterLibrary\obj\Debug\net8.0\AdapterLibrary.pdb
+D:\support\projects\AdapterLibrary\obj\Debug\net8.0\ref\AdapterLibrary.dll
